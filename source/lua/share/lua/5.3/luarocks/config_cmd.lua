@@ -1,0 +1,1 @@
+../../../../libexec/share/lua/5.3/luarocks/config_cmd.lua
